@@ -1,2 +1,1 @@
-# tenzies
-tenzies game
+# test readme
